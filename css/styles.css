@@ -274,10 +274,21 @@ img {
     width: calc((100% - 72px) / 4);
     padding-bottom: 32px;
     background-color: #ffffff;
+    border-radius: 0px 0px 4px 4px;
 }
 
 .team .item img {
     margin-bottom: 32px;
+}
+.team-card{
+    padding: 32px 16px;
+}
+.team .title{
+    text-align: center;
+    margin-bottom: 8px;
+}
+.team .base-text{
+    text-align: center;
 }
 
 /* ======= /TEAM ======= */
